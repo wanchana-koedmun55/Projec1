@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,200&display=swap');
 body{
     background-color: azure;
+    font-family: 'Prompt', sans-serif;
 } 
 
